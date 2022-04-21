@@ -1,0 +1,24 @@
+{
+  "name": "summer-twilight-sky-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Summer Twilight Sky syntax theme.",
+  "keywords": [
+    "twilight",
+    "sky",
+    "summer",
+    "syntax",
+    "theme",
+    "syntax-theme",
+    "atom",
+    "dark-theme",
+    "themes",
+    "colour-scheme",
+    "colourscheme"
+  ],
+  "repository": "https://github.com/heartshapedbox/summer-twilight-sky-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
