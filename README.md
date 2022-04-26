@@ -6,7 +6,7 @@
 >**Summer Twilight Sky** syntax theme is a story of a warm summer evening, magenta sky and dreams. Background, gutter, guides, brackets and main syntax are in calm tones and potentially important syntax are in bright ones that make it easy to find a part of code you are looking for.
 
 ### Color scheme
->**Summer Twilight Sky** syntax theme is based on 9 colors:
+>**Summer Twilight Sky** syntax theme is based on 10 colors:
 
 [![Colors](https://user-images.githubusercontent.com/27690717/164568238-240227a3-e7ce-4c08-8dd2-ca3ea8278c66.png)
 ](https://user-images.githubusercontent.com/27690717/164568238-240227a3-e7ce-4c08-8dd2-ca3ea8278c66.png)
