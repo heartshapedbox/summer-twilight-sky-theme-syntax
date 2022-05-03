@@ -1,5 +1,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/heartshapedbox/summer-twilight-sky-theme-syntax?color=5955E8&logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/heartshapedbox/summer-twilight-sky-theme-syntax?color=5955E8&logo=github)
+![APM](https://img.shields.io/apm/l/summer-twilight-sky-theme-syntax?color=green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/heartshapedbox/summer-twilight-sky-theme-syntax?color=FF4500)
 
 # Summer Twilight Sky
 >Dark **_syntax theme_** with bright colors for [Atom](https://atom.io).
